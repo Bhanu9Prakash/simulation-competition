@@ -2,6 +2,11 @@
 
 This project simulates the evolution of organisms based on their mass. Each organism is represented by a square with crossed lines, where the size corresponds to its mass. The goal is for the population to evolve towards an optimal mass range. Organisms with a mass in this range have higher fitness and are more likely to reproduce.
 
+https://bhanu9prakash.github.io/simulation-competition/
+
+![image](https://github.com/user-attachments/assets/26c481f8-82f6-48f2-9534-2634d2ba0fe7)
+
+
 ## Usage
 
 ### Running the Simulation
